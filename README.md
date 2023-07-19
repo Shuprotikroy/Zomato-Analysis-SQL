@@ -1,8 +1,8 @@
 # Zomato-Analysis-SQL
 
-# Refer to /massinsert.sql for bulk insertion query
-# Refer to /storedprocedures for viewing the 3 stored procedures individually
-# Refer to /output describing the workings of individual stored procedures and other SQL Queries
+### Refer to /massinsert.sql for bulk insertion query
+### Refer to /storedprocedures for viewing the 3 stored procedures individually
+### Refer to /output describing the workings of individual stored procedures and other SQL Queries
 
 Using a dataset from Kaggle, performed a 𝐒𝐐𝐋 analysis of a complex dataset involving 20000+ records.
 
