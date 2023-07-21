@@ -1,6 +1,9 @@
 # Zomato-Analysis-SQL
 
 ### Refer to /massinsert.sql for bulk insertion query
+![10](https://github.com/Shuprotikroy/Zomato-Analysis-SQL/assets/70252750/8b714b25-9ed1-4f73-bc68-d6763fddc0ba)
+![11](https://github.com/Shuprotikroy/Zomato-Analysis-SQL/assets/70252750/e5864860-4cc6-4ddf-9a93-5f13617cb090)
+
 ### Refer to /storedprocedures for viewing the 3 stored procedures individually
 ### Refer to /output describing the workings of individual stored procedures and other SQL Queries
 
