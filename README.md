@@ -1,5 +1,5 @@
 # Zomato-Analysis-SQL
-## The About section on the right side of this project consists of a linkedin post link wherein this project has been explained in further detail
+## The About section on the top right side of this project consists of a linkedin post link wherein this project has been explained in further detail
 
 
 ![10](https://github.com/Shuprotikroy/Zomato-Analysis-SQL/assets/70252750/8b714b25-9ed1-4f73-bc68-d6763fddc0ba)
